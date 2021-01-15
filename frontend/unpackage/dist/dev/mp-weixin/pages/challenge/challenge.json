@@ -1,0 +1,6 @@
+{
+  "navigationBarTitleText": "环保守卫者挑战赛",
+  "usingComponents": {
+    "share": "/components/share"
+  }
+}

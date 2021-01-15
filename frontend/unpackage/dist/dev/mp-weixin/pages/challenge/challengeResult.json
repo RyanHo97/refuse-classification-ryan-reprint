@@ -1,0 +1,7 @@
+{
+  "usingComponents": {
+    "uni-steps": "/components/uni-steps/uni-steps",
+    "level-popup": "/components/levelPopup",
+    "share": "/components/share"
+  }
+}
